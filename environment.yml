@@ -1,0 +1,13 @@
+name: torch
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - h5py
+  - numpy
+  - scipy
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cudatoolkit=11.0
+  - tqdm
