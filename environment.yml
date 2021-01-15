@@ -1,4 +1,4 @@
-name: torch
+name: pytorch-ex
 channels:
   - pytorch
   - defaults

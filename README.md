@@ -8,7 +8,7 @@ Clone this repository, and you may create a separate conda environment using the
 
 ```bash
 conda env create --file environment.yml
-conda activate pytorch
+conda activate pytorch-ex
 ```
 
 ## 0. Prepare Dataset
